@@ -1,0 +1,64 @@
+.ani1
+{
+    position: relative;
+    left: -300px;
+}
+.rounded-circle
+{
+    height:90px ;
+    width:90px;
+}
+.ani2
+{    margin-left: 80px;
+    width: 400px;
+    
+}
+.ani3
+{  border-radius: 30px;
+    padding-left: 80px;
+           }
+.footer2
+{
+    text-align: center;
+}
+.mt-4
+{
+    text-align: center; 
+}
+.c2:hover{
+    
+    transform: scale(1.1);
+}
+.c3:hover
+{
+    transform: scale(0.5);
+}   
+.c4:hover
+{
+    transform: scale(0.5);
+}
+.c6:hover
+{
+    transform: scale(1.1);
+}
+.c7:hover
+{
+    transform: scale(1.1);   
+}
+.st
+{
+    color: coral;
+   
+}
+.co
+{
+color: chocolate;
+}
+.bg
+{
+background: chartreuse;
+}
+.co2
+{
+    color: brown;
+}
